@@ -1,0 +1,6 @@
+{
+  "latest_version": "0.5.0",
+  "minimum_version": "0.5.0",
+  "download_path": "\\\\server\\cosmetic_tool\\releases",
+  "notes": "Initial external settings, spec loading, and version check support."
+}

@@ -1,0 +1,28 @@
+{
+  "Scratch": {
+    "outside": {
+      "max_length_mm": 10.0,
+      "max_width_mm": 0.5
+    },
+    "inside": {
+      "max_length_mm": 15.0,
+      "max_width_mm": 0.8
+    }
+  },
+  "Scuff": {
+    "outside": {
+      "max_area_mm2": 25.0
+    },
+    "inside": {
+      "max_area_mm2": 40.0
+    }
+  },
+  "Dent": {
+    "outside": {
+      "max_diameter_mm": 3.0
+    },
+    "inside": {
+      "max_diameter_mm": 5.0
+    }
+  }
+}
